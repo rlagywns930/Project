@@ -66,7 +66,7 @@
 
 ---
 
-## 🎯 AI Engineering Focus
+## 🎯 Focus
 
 - **Model Performance Optimization:** 모델의 수치적 정확도와 일반화 성능 최적화에 집중합니다.
 - **End-to-End Pipeline:** 데이터 크롤링부터 전처리, 아키텍처 설계, 평가까지의 전체 AI 워크플로우를 구축합니다.
